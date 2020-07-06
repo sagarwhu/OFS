@@ -1,1 +1,1 @@
-# OFS
+# Online feature selection (OFS)
